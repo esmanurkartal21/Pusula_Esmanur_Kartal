@@ -10,9 +10,11 @@ DOSYALAR
 
 side_effect_data 1.xlsx: Hastaların ilaç kullanımı, yan etkileri, alerjileri, kronik hastalıkları ve demografik bilgilerini içeren veri seti.
 
-main.py: EDA, veri ön işleme ve görselleştirmeleri gerçekleştiren Python scripti.
+pusula_esmanur_kartal.py: EDA, veri ön işleme ve görselleştirmeleri gerçekleştiren Python scripti.
 
-README.md: Bu dosya.
+PUSULA CASE STUDY SUMMARY.pdf: Projenin kod çıktılarını görüntüleyen bir pdf.
+
+README.md: Veri analizinin ve projenin genel amacını özetleyen bir dosya.
 
 PROJE YAPISI
 
@@ -74,6 +76,6 @@ cd Pusula_Esmanur_Kartal
 
 3. Python scriptini çalıştırın:
    
-python main.py
+python pusula_esmanur_kartal.py
 
-Unutmayın, side_effect_data 1.xlsx dosyasını main.py ile aynı dizine yerleştirmelisiniz.
+Unutmayın, side_effect_data 1.xlsx dosyasını pusula_esmanur_kartal.py ile aynı dizine yerleştirmelisiniz.
