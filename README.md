@@ -1,6 +1,6 @@
-İLAÇ YAN ETKİLERİ VERİ ANALİZİ
-
 Esmanur Kartal / esmanurkartal21@gmail.com
+
+İLAÇ YAN ETKİLERİ VERİ ANALİZİ
 
 GENEL BAKIŞ
 
